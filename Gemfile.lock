@@ -33,13 +33,13 @@ PLATFORMS
 DEPENDENCIES
   erubis
   pg
-  puma (~> 6.3)
+  puma
   sinatra (~> 1.4.7)
   sinatra-contrib
   webrick
 
 RUBY VERSION
-   ruby 3.2.2p53
+   ruby 2.7.0p0
 
 BUNDLED WITH
-   2.4.10
+   2.4.12
